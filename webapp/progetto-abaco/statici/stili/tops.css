@@ -1,0 +1,71 @@
+#corpo {
+  float: left;
+  background-color: #dfdcda;
+}
+.contenuto {
+  margin: 3px;
+  display: inline;
+  float: left;
+  background-color: #ad6800;
+}
+.contenuto .data_contenuto {
+  margin: 3px;
+  display: inline;
+  float: left;
+  background-color: yellow;
+}
+.contenuto .autore_contenuto {
+  margin: 3px;
+  display: inline;
+  float: left;
+  background-color: green;
+}
+.contenuto .titolo_contenuto {
+  margin: 3px;
+  display: inline;
+  float: left;
+  background-color: #d790aa;
+}
+.contenuto .sottotitolo_contenuto {
+  margin: 3px;
+  display: inline;
+  float: left;
+  background-color: #d7ad90;
+}
+.contenuto .stati_contenuto {
+  display: inline;
+  float: left;
+  font-size: 0.8em;
+}
+.contenuto .stati_contenuto .stato_contenuto {
+  margin: 2px;
+  display: inline;
+  float: left;
+  background-color: #ffaa3a;
+}
+.contenuto .fonti_contenuto {
+  display: inline;
+  float: left;
+  font-size: 0.8em;
+}
+.contenuto .fonti_contenuto .fonte_contenuto {
+  margin: 2px;
+  display: inline;
+  float: left;
+  background-color: #d178f5;
+}
+.contenuto .etichette {
+  display: inline;
+  float: left;
+  font-size: 0.8em;
+}
+.contenuto .etichette .etichetta {
+  margin: 2px;
+  display: inline;
+  float: left;
+  background-color: #8c78f5;
+}
+.contenuto .miniatura {
+  display: inline;
+  float: left;
+}

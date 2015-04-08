@@ -1,0 +1,15 @@
+{
+"stato_del_contenuto" : [
+	{"text": "controllare le fonti", "ascii": "controllare_le_fonti"},
+	{"text": "controllare l'ortografia e la grammatica", "ascii": "controllare_ortografia_e_grammatica"},
+	{"text": "controllare i link", "ascii": "controllare_i_link"},
+	{"text": "aggiungere più immagini", "ascii": "aggiungere_piu_immagini"},
+	{"text": "integrare l'articolo", "ascii": "integrare_l_articolo"},
+	{"text": "da rivedere l'esattezza", "ascii": "rivedere_esattezza"}
+	],
+"tipo_immagine" : [
+	{"text": "Foto", "ascii": "foto"},
+	{"text": "Dipinto", "ascii": "dipinto"},
+	{"text": "Grafico", "ascii": "grafico"}
+	]
+}

@@ -1,0 +1,93 @@
+body {
+	font-family: sans-serif;
+	font-size: 100%;
+	line-height:1.125em;
+	color:black;
+	background-color: white;
+}
+
+#wrapper {
+	position: relative;
+	height: 99.8%;
+	width: 99.8%;
+	margin: auto;
+	background-color: grey;
+}
+
+a {
+	text-decoration: none;
+	display: inline;
+	color: inherit;
+}
+
+header {
+	float: left;
+	width: 99.8%;
+	margin: auto;
+	background-color: #6C8D5D;
+}
+
+header #intestazione {
+	display: inline;
+	float: left;
+/*
+	width: 40%;
+*/
+	margin: 1%;
+	background-color: #F0FF3A;
+}
+h1 {
+	margin: 1%;
+	font-size: 1em;
+}
+h2 {
+	margin: 1%;
+	max-width: 350px;
+	font-size: 0.875em;
+}
+h3 {
+	margin: 1%;
+	font-size: 0.75em;
+}
+
+header #menu {
+	display: inline;
+	float: left;
+/*
+	width: 50%;
+*/
+	margin: 2%;
+	background-color: #C9D909;
+}
+header #menu a {
+	display: block;
+	font-size: 0.75em;
+}
+
+footer {
+	clear: both;
+	width: 99.8%;
+	margin: auto;
+	background-color: #979797;
+	font-size: 0.75em;
+}	
+footer #info_varie {
+	display: inline-block;
+	width: 40%;
+	float: left;
+	margin: 1%;
+	background-color: #FF565C;
+}
+footer #etichette {
+	display: inline-block;
+	width: 40%;
+	margin: 1%;
+	background-color: #5662FF;
+}
+footer #etichette .etichetta {
+	display: inline-block;
+	background-color: #470700;
+	color: white;
+	margin: 3px;
+	padding: 2px;
+}

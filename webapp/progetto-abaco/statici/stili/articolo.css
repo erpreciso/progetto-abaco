@@ -1,0 +1,110 @@
+
+
+#corpo {
+	position: relative;
+	clear: both;
+	font-size: 0.75em;
+}
+form {
+	float: left;
+	margin: 1%;
+	width: 40%;
+	background-color: #B2A3FF;
+}
+
+input {
+	width: 96%;
+}
+#corpo #titolo_contenuto,
+#corpo #sottotitolo_contenuto {
+	margin: 3px;
+	padding: 2px;
+	background-color: #F1FF36;
+}
+#corpo .info,
+#corpo #fonti {
+	margin: 3px;
+	background-color: #FF9488;
+}
+#corpo .info #data_contenuto,
+#corpo .info #autore_contenuto {
+	display: inline-block;
+	margin: 3px;
+	background-color: #fdfdfd;
+	padding: 2px;
+}
+
+#corpo .info #autore_contenuto a {
+	background-color: #fdfdfd;
+	padding: 2px;
+}
+#corpo #nome_etichetta {
+	background-color: #D2CF88;
+	margin: 3px;
+}
+#corpo #nome_etichetta .etichetta {
+	display: inline-block;
+	padding: 2px;
+}
+#corpo #corpo_contenuto {
+	background-color: #909090;
+	margin: 2px;
+	padding: 2px;
+}
+#corpo #corpo_contenuto textarea {
+	width: 98%;
+}
+
+#corpo .info #nome_fonte,
+#corpo .info #link_fonte {
+	display: inline-block;
+	font-size: 0.75em;
+	margin: 3px;
+	padding: 2px;
+	background-color: #bbb;
+}
+
+#corpo #stato_contenuto {
+	margin: 3px;
+	background-color: ##C09418;
+}
+
+#corpo #stato_contenuto select {
+	width: 100%;
+	color: red;
+}
+	
+#corpo #submit input,
+#corpo #inserimento_immagine button,
+#corpo #modifica_contenuto {
+	background-color: #D61414;
+	color: white;
+	width: 98%;
+	margin: 1%;
+	padding: 2px;
+}
+#corpo #blocco_immagine {
+	float: left;
+}
+#corpo #immagine_principale {
+	display: inline;
+	float: left;
+	margin: 3px;
+	background-color: #B498FF;
+}
+#corpo #immagine_principale img {
+	max-width: 100%;
+}
+#corpo #immagini_vetrina {
+	display: inline;
+	float: left;
+	background-color: #3C03D7;
+}
+#corpo #immagini_vetrina .vetrina {
+	display: inline;
+	float: left;
+	margin: 3px;
+}
+#corpo #immagini_vetrina .vetrina img {
+	max-width: 100%;
+}
